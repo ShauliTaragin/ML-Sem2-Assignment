@@ -1,1 +1,3 @@
-This is a repository for final project machine learning semester 2
+# Data Visualization
+
+<!-- TABLE OF CONTENTS -->
