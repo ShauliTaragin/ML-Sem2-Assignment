@@ -1,8 +1,6 @@
-# Data Visualization
+# Introduction to Data Science Final Project  September 2021 - Data Visualization 
 
 <!-- ABOUT THE PROJECT -->
-
-## Introduction to Data Science Final Project  September 2021 - Data Visualization 
 
 ### Submitter : Shauli Taragin 
 
